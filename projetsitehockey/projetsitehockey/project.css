@@ -1,0 +1,236 @@
+
+
+
+
+.header{
+    
+   top: 0px;
+   left: 0px;
+   min-width: 1400px;
+   min-height: 74px;
+   background: #47B1CC 0% 0% no-repeat padding-box;
+   opacity: 1;
+   align-items: center;
+   display: flex;
+
+}
+.subheader2{
+    
+    background-image: url('../image/Great+Lake+Shot+2.0+-2.jpg');
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+    height: 590px;
+    display: flex;
+    
+    
+    
+    
+}
+#subheader{
+   
+    
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 590px;
+    background: #8CD0E1;
+    opacity: 0.8;
+    display: flex;
+    object-fit: cover;
+    
+    
+}
+.footer{
+position: relative;
+display: flex;
+top: 800px;
+left: 0px;
+width: 100%;
+height: 101px;
+background: #47B1CC 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+
+}
+.subfooter{
+position: relative;
+display: flex;
+top: 800px;
+left: 0px;
+width: 100%;
+height: 224px;
+background: #8CD0E1 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 0.32;
+
+}
+
+.button{
+position: sticky;
+display: flex;
+top: 575px;
+left: 600px;
+width: 340px;
+height: 88px;
+align-content: center;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 10px 10px 20px #8CD0E18C;
+border: 1px solid #47B1CC;
+border-radius: 45px;
+opacity: 1;
+backdrop-filter: blur(30px);
+-webkit-backdrop-filter: blur(30px);
+margin: 20px;
+
+}
+.buttontext{
+position: relative;
+top: 25px;
+left: 0px;
+width: 338px;
+height: 33px;
+text-align: center;
+font: normal normal bold 33px/43px THE GLOBE PERSONAL USE;
+letter-spacing: 0px;
+color: #47B1CC;
+text-shadow: 10px 10px 20px #00000029;
+opacity: 1;
+}
+.menubutton1{
+    top: 22px;
+    left: 769px;
+    width: 88px;
+    height: 30px;
+    text-align: center;
+    font: normal normal normal 25px/30px Verdana;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin: 10px;
+
+}
+.menubutton2{
+    top: 22px;
+left: 886px;
+width: 146px;
+height: 30px;
+
+text-align: center;
+font: normal normal normal 25px/30px Verdana;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+margin: 10px;
+}
+.menubutton3{
+    top: 22px;
+    left: 1061px;
+    width: 88px;
+    height: 30px;
+    text-align: center;
+    font: normal normal normal 25px/30px Verdana;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin: 10px;
+
+}
+.textheader{
+position: absolute;
+top: 90px;
+left: 100px;
+min-width: 300px;
+height: 230px;
+text-align: center;
+font: normal normal bold 70px/80px THE GLOBE PERSONAL USE;
+letter-spacing: 5px;
+color: #FFFFFF;
+text-shadow: 10px 10px 20px #00000029;
+opacity: 1;
+display: flex;
+margin: 80px;
+}
+
+.textmain{
+position: absolute;
+top: 800px;
+left: 100px;
+min-width: 200px;
+max-width: 483px;
+min-height: 300px;
+text-align: center;
+font: normal normal normal 20px/24px Verdana;
+letter-spacing: 0px;
+color: #47B1CC;
+opacity: 1;
+display: flex;
+margin: 50px;
+
+}
+
+.titlebhy{
+position:-ms-page;
+top: 700px;
+left: 600px;
+width: 338px;
+height: 33px;
+text-align: center;
+font: normal normal bold 33px/43px THE GLOBE PERSONAL USE;
+letter-spacing: 0px;
+color: #47B1CC;
+text-shadow: 10px 10px 20px #00000029;
+opacity: 1;
+margin-top: 50px;
+
+
+}
+
+a {
+	color: #6dd4b1;
+	transition: color 0.25s linear;  
+}
+
+a:hover, a:focus  {
+	color: #357099;
+}
+
+.pop{
+    position: absolute;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    left: 900px;
+    top: 800px;
+
+}
+
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid #47B1CC;
+    
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th,
+  td {
+    padding: 20px;
+  }
